@@ -1,4 +1,4 @@
-# Multithreaded Operating System Kernel
+# RISC-V Multithreaded Kernel
 ## Overview
 
 This project involves the implementation of a small but fully functional kernel of an operating system that supports multithreading with time sharing. The kernel includes memory allocation, thread management, semaphore support, asynchronous context switching, and preemption on timer and keyboard interrupts.
