@@ -14,6 +14,7 @@ The project is implemented using RISC-V assembly and C/C++ and runs in a RISC-V 
 - Preemption and Time Sharing: Support for time-sharing and context switching.
 - Semaphore Support: Create, manage and destroy semaphores.
 - Asynchronous Context Switching: Triggered by internal timer and keyboard interrupts.
+- Keyboard Interrupts
 
 ### Time-sharing, context switching and thread sleep.
 ![image](https://github.com/marmil03/RISC-V-Kernel/blob/main/Assets/Test%205.png)
